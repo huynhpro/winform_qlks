@@ -8,6 +8,7 @@ namespace QuanLiKhachSan
 {
     internal static class Program
     {
+        //test commit
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
