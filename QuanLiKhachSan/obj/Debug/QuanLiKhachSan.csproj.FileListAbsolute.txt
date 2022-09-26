@@ -1,0 +1,12 @@
+D:\Workspace\Winform\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.exe.config
+D:\Workspace\Winform\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.exe
+D:\Workspace\Winform\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.pdb
+D:\Workspace\Winform\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csproj.AssemblyReference.cache
+D:\Workspace\Winform\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\Winform\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fLogin.resources
+D:\Workspace\Winform\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Properties.Resources.resources
+D:\Workspace\Winform\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csproj.GenerateResource.cache
+D:\Workspace\Winform\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csproj.CoreCompileInputs.cache
+D:\Workspace\Winform\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.exe
+D:\Workspace\Winform\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.pdb
+D:\Workspace\Winform\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fTableManager.resources
